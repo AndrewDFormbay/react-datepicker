@@ -1,8 +1,8 @@
 {
   "author": "Andrew Dinihan",
-  "name": "react-datepicker",
+  "name": "react-datepicker-fb",
   "description": "A simple and reusable datepicker component for React",
-  "version": "3.2.2.1",
+  "version": "3.2.2.3",
   "license": "MIT",
   "homepage": "https://github.com/AndrewDFormbay/react-datepicker",
   "main": "dist/index.js",
