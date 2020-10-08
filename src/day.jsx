@@ -46,11 +46,11 @@ export default class Day extends React.Component {
   };
 
   componentDidMount() {
-    this.handleFocusDay();
+    // this.handleFocusDay();
   }
 
   componentDidUpdate(prevProps) {
-    this.handleFocusDay(prevProps);
+    // this.handleFocusDay(prevProps);
   }
 
   dayEl = React.createRef();
